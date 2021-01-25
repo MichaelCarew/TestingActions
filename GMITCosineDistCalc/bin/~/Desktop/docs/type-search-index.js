@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ie.gmit.dip","l":"CosineCalculator"},{"p":"ie.gmit.dip","l":"Menu"},{"p":"ie.gmit.dip","l":"QueryFileHandler"},{"p":"ie.gmit.dip","l":"Runner"},{"p":"ie.gmit.dip","l":"SubjectFileHandler"}]

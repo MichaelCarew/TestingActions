@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ie.gmit.dip","c":"Runner","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"ie.gmit.dip","c":"Runner","l":"Runner()","url":"%3Cinit%3E()"}]
